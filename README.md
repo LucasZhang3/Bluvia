@@ -138,4 +138,11 @@ To restore functionality, you would need to provide:
 | Database | Connection to a data persistence layer |
 | Auth Provider | Configured authentication service |
 
+---
+
+## Support
+If you have any questions or need help, please open an issue on GitHub.
+
+---
 </div>
+
