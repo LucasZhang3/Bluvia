@@ -63,27 +63,27 @@
 
 ### What This Project Originally Was
 
-Bluvia was a water analysis application designed to visualize and predict metal concentrations in water systems. The application had both a map-based interface and a predictive model to analyze water in Arizona.
+Bluvia began as a water analysis application built to explore how metal concentrations could be visualized and evaluated across water systems in Arizona. The original application had a map-based interface with a predictive model to interpret location-based water quality data.
+
 
 ### Original Goals
-
-- Display interactive maps with location-based water quality data
+- Visualize water quality data on interactive maps
 - Accept user-uploaded datasets for analysis
 - Run predictive models on metal concentration levels
-- Provide risk assessments based on calculated thresholds
-- Support authenticated user sessions with personalized data views
+- Calculate risk levels based on defined thresholds
 
 ### Current Status
 
-This codebase was previously part of a **closed-source, private project** and has been open-sourced in a **redacted, non-functional state**.
+Bluvia was originally developed as a private, closed-source project. It has since been open-sourced in a non-functional state, with sensitive components removed.
 
 
 ## What Was Removed
+To avoid exposing sensitive or proprietary material, the following elements were removed or stubbed:
 
-### Proprietary Data
-- Research datasets containing metal concentration measurements
-- Geographic coordinate data tied to real locations
-- Baseline reference data for predictive models
+### Data
+- Real-world metal concentration datasets
+- Geographic coordinates tied to actual locations
+- Reference data used by prediction models
 
 ### Credentials & Secrets
 - Google Maps API keys
@@ -138,5 +138,4 @@ To restore functionality, you would need to provide:
 | Database | Connection to a data persistence layer |
 | Auth Provider | Configured authentication service |
 
-**No real endpoints, keys, or datasets are provided in this repository.**
 </div>
