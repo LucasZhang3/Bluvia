@@ -1,0 +1,19 @@
+project_id = "REDACTED_PROJECT_ID"
+
+[functions.maps-proxy]
+verify_jwt = false
+
+[functions.predict-metals]
+verify_jwt = false
+
+[functions.test-api]
+verify_jwt = false
+
+[functions.upload-csv]
+verify_jwt = false
+
+[functions.auth-login]
+verify_jwt = false
+
+[functions.auth-signup]
+verify_jwt = false
