@@ -13,11 +13,11 @@
 
   <br />
 
-  > **This repository is intentionally non-functional.**  
+   **This repository is intentionally non-functional.**  
 
 </div>
 
----
+
 
 ## Demo
 
